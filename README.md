@@ -1,7 +1,7 @@
 Simple AutoHotKey script to skip songs using self made media keys for windows.
 
 1. Download AutoHotKey:
-    - https://www.autohotkey.com/
+- https://www.autohotkey.com/
 
 2. Run this script when windows starts:
 - Make a shortcut of hotkeys.ahk and place it in directory:
