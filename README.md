@@ -12,7 +12,7 @@ Simple AutoHotKey script to skip songs using self made media keys for windows.
 - To skip media:      Ctrl + .
 - To playback media:  Ctrl + ,
 
-**Optional**
+***Optional**
 - There is also a hotkey for opening the Windows Terminal.
 - If you dont want to use this you can just delete the last line.
 - If you want to use this you have to change \juspa\ to your own username found in C:\Users\_USERNAME_\
