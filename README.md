@@ -1,18 +1,20 @@
 Simple AutoHotKey script to skip songs using self made media keys for windows.
 
-1. **Download AutoHotKey:**
+1.
+**Download AutoHotKey:**
 - https://www.autohotkey.com/
-
-2. **Run this script when windows starts:**
+2.
+**Run this script when windows starts:**
 - Make a shortcut of hotkeys.ahk and place it in directory:
 - C:\Users\*USERNAME*\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
-
-3. **Use the script:**
+3.
+**Use the script:**
 - To pause media:     Ctrl + M
 - To skip media:      Ctrl + .
 - To playback media:  Ctrl + ,
 
+4.
 **Optional**
 - There is also a hotkey for opening the Windows Terminal.
 - If you dont want to use this you can just delete the last line.
