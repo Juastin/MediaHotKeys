@@ -12,8 +12,8 @@
 
 **Use the script:**
 - To pause media:     Ctrl + M
-- To playback media:  Ctrl + , (<)
-- To skip media:      Ctrl + . (>)
+- To playback media:  Ctrl + ,
+- To skip media:      Ctrl + .
 
 **_Optional_**
 - There is also a hotkey for opening the Windows Terminal.
