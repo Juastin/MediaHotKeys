@@ -1,4 +1,4 @@
-Simple AutoHotKey script to skip songs using self made media keys for windows.
+:EMOJICODE: Simple AutoHotKey script to skip songs using self made media keys for windows.
 
 **Download AutoHotKey:**
 - https://www.autohotkey.com/
