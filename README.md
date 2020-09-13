@@ -18,7 +18,7 @@
 **_Optional_**
 - There is also a hotkey for opening the Windows Terminal.
 - If you dont want to use this you can just delete (or ignore) the last line in the script. 
-- If you want to use this you have to change \juspa\ to your own username found in C:\Users\\_USERNAME_\
+- If you want to use this you have to change \juspa\ to your own username.
 
 - Download here: https://www.microsoft.com/store/productId/9N0DX20HK701
 - To open terminal:   Ctrl + `
