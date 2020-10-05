@@ -8,7 +8,8 @@
 
 **Run this script when windows starts:**
 - Make a shortcut of hotkeys.ahk and place it in directory:
-- `C:\Users\\_USERNAME_\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+- `C:\Users\\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+- Replace `"USERNAME"` with your own.
 
 **Use the script:**
 - To pause media:     Ctrl + M
