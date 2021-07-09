@@ -1,4 +1,4 @@
-:banana: Simple AutoHotKey script to skip songs using media keys for windows.
+:banana: Very simple AutoHotKey script to skip songs using media keys for windows.
 
 **Download AutoHotKey:**
 - https://www.autohotkey.com/
