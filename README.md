@@ -9,7 +9,7 @@
 **Run this script when windows starts:**
 - Make a shortcut of hotkeys.ahk and place it in directory:
 - `C:\Users\\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
-- Replace `"USERNAME"` with your own.
+- Replace `"USERNAME"` with your own windows username.
 
 **Use the script:**
 - To pause media:     Ctrl + M
