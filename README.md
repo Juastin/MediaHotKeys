@@ -5,6 +5,7 @@
 
 **Clone script**
 - Clone this script with git clone
+- Change `\juspa\` to your own windows username.
 
 **Run this script when windows starts:**
 - Make a shortcut of hotkeys.ahk and place it in directory:
@@ -19,7 +20,6 @@
 **_Optional_**
 - There is also a hotkey for opening the Windows Terminal.
 - If you dont want to use this you can just delete (or ignore) the last line in the script. 
-- If you want to use this you have to change `\juspa\` to your own windows username.
 
 - Download here: https://www.microsoft.com/store/productId/9N0DX20HK701
 - To open terminal:   Ctrl + `
